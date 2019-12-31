@@ -1,5 +1,6 @@
-file:///Users/rainvisitor/Documents/NSYSU-MITLAB/moon-shot-app/.dart_tool/flutter_build/c60501128bb0a1f1eb3f9a42f488b299/main.dart
+file:///Users/rainvisitor/Documents/NSYSU-MITLAB/moon-shot-app/.dart_tool/flutter_build/de3c22bf24408e50b7c60423d0cf7fe4/main.dart
 file:///Users/rainvisitor/Documents/NSYSU-MITLAB/moon-shot-app/.packages
+file:///Users/rainvisitor/Documents/NSYSU-MITLAB/moon-shot-app/lib/generated_plugin_registrant.dart
 file:///Users/rainvisitor/Documents/NSYSU-MITLAB/moon-shot-app/lib/main.dart
 file:///Users/rainvisitor/Documents/NSYSU-MITLAB/moon-shot-app/lib/models/power_response.dart
 file:///Users/rainvisitor/Documents/NSYSU-MITLAB/moon-shot-app/lib/models/shrimp_response.dart
@@ -183,6 +184,10 @@ file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/vector3.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/vector4.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/vector_math_64.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.5/lib/video_player.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-1.0.4/lib/method_channel_video_player.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-1.0.4/lib/video_player_platform_interface.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-0.1.1+1/lib/video_player_web.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/web_socket_channel-1.1.0/lib/html.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/web_socket_channel-1.1.0/lib/src/_connect_html.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/web_socket_channel-1.1.0/lib/src/channel.dart
@@ -761,3 +766,6 @@ file:///Users/rainvisitor/development/flutter/packages/flutter_localizations/lib
 file:///Users/rainvisitor/development/flutter/packages/flutter_localizations/lib/src/material_localizations.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter_localizations/lib/src/utils/date_localizations.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter_localizations/lib/src/widgets_localizations.dart
+file:///Users/rainvisitor/development/flutter/packages/flutter_web_plugins/lib/flutter_web_plugins.dart
+file:///Users/rainvisitor/development/flutter/packages/flutter_web_plugins/lib/src/plugin_event_channel.dart
+file:///Users/rainvisitor/development/flutter/packages/flutter_web_plugins/lib/src/plugin_registry.dart
